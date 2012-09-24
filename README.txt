@@ -1,0 +1,1 @@
+This is open sourse chess server wich can validate moves.
